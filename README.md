@@ -1,5 +1,7 @@
 # Starbucks Capstone Challenge
 Project in Data Scientist Nanodegree of Udacity
+Here is the [article][1] to show the results. 
+[1]:
 
 ### Table of Contents
 
