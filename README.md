@@ -2,6 +2,9 @@
 Project in Data Scientist Nanodegree of Udacity
 Here is the article [https://medium.com/p/ef708825155c/edit] to show the results. 
 
+# Blog
+Here is the blog for the result https://medium.com/@gudegudejacob/who-uses-the-offers-at-starbucks-ef708825155c
+
 ### Table of Contents
 
 1. [Installation](#installation)
